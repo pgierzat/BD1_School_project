@@ -9,6 +9,7 @@
 
 -- predefined type, no DDL - XMLTYPE
 
+
 CREATE TABLE departments (
     department_id INTEGER NOT NULL,
     dep_name          CHAR(100),
